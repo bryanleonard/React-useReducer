@@ -5,7 +5,7 @@ import Shop from './components/Shop';
 import { DUMMY_PRODUCTS } from './dummy-products';
 import Product from './components/Product';
 
-import { CartContextProvider } from './store/cart-context';
+import CartContextProvider from './store/cart-context';
 
 function App() {
   
